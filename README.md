@@ -1,2 +1,2 @@
 # ABOUT-ME
-bio data about mysef
+bio data about myself
